@@ -12,6 +12,7 @@ Begin importing Python libraries.
 `getpass, uuid, socket` to get host information.
 `threading` to execute processes in unique threads.
 `subproces` for running system commands.
+![Alt text](https://raw.githubusercontent.com/jsrcs/Images/refs/heads/main/Python-Keylogger/1.png?token=GHSAT0AAAAAAC2NUSQ7A43OFXDPTPSVSEJEZZU2KGQ)
 ## Setup
 Some code uses the SMTP email service to use, along with temporary files to receive text output. The temporary file is disguised to blend in with Windows files as "license_win64_details.txt".
 Using Gmail's SMTP service, this will send emails to remotely extract information.
