@@ -23,7 +23,3 @@ By default, there is a safety key which terminates the program: the right contro
 
 # Executable Compile
 This program can be compiled into a standalone using PyInstaller. If we save the file as a ".pyw" extension, the program will run in a mode "without console." This is to help stay undetected.
-## WinRAR Packaging
-Using WinRAR, we can package the files to be an SFX archive. The program will be embedded within a photo, and when it's opened, it will exectue the keylogger under the radar. We can disguise the icon and opening of the file, but can't change the file type to change from "Application".
-# Demonstration
-After opening the photo, the executable will run and begin sending emails of the host information and keystrokes. This loop will happen until the user presses the right control key, which terminates the program.
