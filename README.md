@@ -13,7 +13,7 @@ Begin importing Python libraries.
 `threading` to execute processes in unique threads.
 `subprocess` for running system commands.
 
-![Alt text](https://raw.githubusercontent.com/jsrcs/Images/refs/heads/main/Python-Keylogger/1.png?token=GHSAT0AAAAAAC2NUSQ7A43OFXDPTPSVSEJEZZU2KGQ)
+![Alt text](https://raw.githubusercontent.com/jsrcs/Images/refs/heads/main/Python-Keylogger/1.png)
 
 ## Setup
 Some code uses the SMTP email service to use, along with temporary files to receive text output. The temporary file is disguised to blend in with Windows files as "license_win64_details.txt".
